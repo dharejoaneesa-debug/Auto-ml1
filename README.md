@@ -45,14 +45,6 @@ The platform features a <b>dark modern theme</b>, interactive visualizations usi
 - Download predictions in <b>CSV</b>, <b>Excel</b>, or <b>JSON</b> format.
 
 ---
-
-## Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/dharejoaneesa-debug/Auto-ml1
-cd AutoML-Streamlit
-
 ## Lisence
 MIT
 
@@ -68,3 +60,12 @@ Machine learning models by scikit-learn
 ## Contact
 MuzammilAhmed – dharejomuzammil22@gmail.com
 Project Link: https://github.com/yourusername/automl-platform
+
+## Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/dharejoaneesa-debug/Auto-ml1
+cd AutoML-Streamlit
+
+
