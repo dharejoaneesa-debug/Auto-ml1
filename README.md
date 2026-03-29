@@ -1,6 +1,6 @@
-##🤖 AutoML Intelligence Platform
 
-## Overview
+
+## 🤖 AutoML Intelligence Platform
 The <b>AutoML Intelligence Platform</b> is an interactive web application built with <b>Streamlit</b> that enables users to perform <b>Automated Machine Learning (AutoML)</b> for both <b>classification</b> and <b>regression</b> tasks. Users can upload datasets, preprocess data, train multiple models, evaluate their performance, and download predictions—all without writing any code.
 
 The platform features a <b>dark modern theme</b>, interactive visualizations using <b>Plotly Express</b>, and a clean, intuitive interface designed for an enhanced user experience.
